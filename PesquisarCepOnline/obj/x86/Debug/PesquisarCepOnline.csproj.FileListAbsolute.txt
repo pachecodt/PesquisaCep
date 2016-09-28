@@ -1,0 +1,16 @@
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.frmPrincipal.resources
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.Properties.Resources.resources
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.csproj.GenerateResource.Cache
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\bin\Debug\PesquisarCepOnline.exe
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\bin\Debug\PesquisarCepOnline.pdb
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.exe
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.pdb
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.csprojResolveAssemblyReference.cache
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.exe
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.pdb
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\bin\Debug\PesquisarCepOnline.exe
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\bin\Debug\PesquisarCepOnline.pdb
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.csprojResolveAssemblyReference.cache
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.frmPrincipal.resources
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.Properties.Resources.resources
+C:\Users\Pacheco\Documents\Visual Studio projects antigos\Visual Studio 2010\Projects\PesquisarCepOnline\PesquisarCepOnline\obj\x86\Debug\PesquisarCepOnline.csproj.GenerateResource.Cache
