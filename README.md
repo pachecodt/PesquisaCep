@@ -1,4 +1,11 @@
-# PesquisaCep
-Pesquisar CEP Online
+## Topicos
+* [Sobre](#sobre)
+* [Funcionamento](#funcionamento)
 
-Basta Digitar o CEP e retornará o Endereço.
+# Sobre
+
+Aplicação para Pesquisa de CEP Online
+
+# Funcionamento
+
+Insira o CEP e a aplicação retornará o respectivo Endereço.
